@@ -1,6 +1,6 @@
 # Welcome to Goop Studios
 
-<img src="../resources/big_icon_green.svg"></img>
+<img src="/resources/big_icon_green.svg"></img>
 
 ## Our repos
 
