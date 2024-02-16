@@ -1,6 +1,8 @@
 # Welcome to Goop Studios
 
-<img src="/resources/big_icon_green.svg"></img>
+<a href="goop-studios.monster" target="_blank">
+    <img src="/resources/big_icon_green.svg" alt="Goop Studios Logo" />
+</a>
 
 ## Our repos
 
