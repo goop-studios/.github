@@ -1,3 +1,9 @@
-<img src="https://github.com/goop-studios/.github/assets/98224660/0c3f808b-9eaa-4258-bc9c-3566e88503a4"></img>
+# Welcome to Goop Studios
 
-The funny!!!
+<img src="../resources/big_icon_green.svg"></img>
+
+## Our repos
+
+- [game](https://github.com/goop-studios/game)
+- [www](https://github.com/goop-studios/www)
+- [bot](https://github.com/goop-studios/bot)
