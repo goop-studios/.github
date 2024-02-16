@@ -1,6 +1,6 @@
 # Welcome to Goop Studios
 
-<a href="goop-studios.monster" target="_blank">
+<a href="https://goop-studios.monster" target="_blank">
     <img src="/resources/big_icon_green.svg" alt="Goop Studios Logo" />
 </a>
 
