@@ -6,4 +6,3 @@
 
 - [game](https://github.com/goop-studios/game)
 - [www](https://github.com/goop-studios/www)
-- [bot](https://github.com/goop-studios/bot)
